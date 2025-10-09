@@ -40,7 +40,7 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Forma Pagamento
 
 
-### Dashboard de Logística - V1
+<!--  ### Dashboard de Logística - V1 
 
 ![Gif que exemplifica o funcionando do dashboard de Logística](https://i.imgur.com/ICBtVVR.gif)
 
@@ -104,8 +104,6 @@ Colunas criadas a partir dos dados:
 - Cliente
 - Motorista
 
-
-
-**Quantidade de dados: 203.883** 
+ -->
 
 Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua issue 😉
