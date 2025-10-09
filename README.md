@@ -17,6 +17,16 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://i.imgur.com/lZW7rfJ.gif)
 
+No Lab 1, trabalhamos com dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo. O Dashboard deve responder as perguntas abaixo:
+
+- Pergunta 1 -Qual o valor total vendido?
+- Pergunta 2 -Quantas vendas foram realizadas por categoria de produto?
+- Pergunta 3 -Quantas vendas foram realizadas por país considerando a prioridade de entrega?
+- Pergunta 4 -Qual foi a média de desconto nas vendas por subcategoria de produto?
+- Pergunta 5 -Quais países tiveram maior média de valor de venda? 
+
+Demonstre em um mapa. E o Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
+
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiYjVlZDRlZDEtYzY4Yi00YTRmLWEwNmItOTI4OWJhNDU4YTVlIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection)
 
 #### Estrutura da base de dados
