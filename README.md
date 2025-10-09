@@ -7,7 +7,7 @@ Em cada pasta está uma Dashboard diferente, junto com um README.md explicando m
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
 - [Dashboard Analítico de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/PBI%20teste.pbix)
-- [Dashboard de Logística - V1](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Log%C3%ADstica%20-%20V1)
+- [Dashboard de Vendas, Custo, Margem de Lucro e KPI]()
 
 ### Dashboard Financeiro
 
