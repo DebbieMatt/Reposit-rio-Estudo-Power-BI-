@@ -8,10 +8,6 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 - [Dashboard Financeiro](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Financeiro)
 - [Dashboard de Logística - V1](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Log%C3%ADstica%20-%20V1)
-- [Dashboard de Logística - V2](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Log%C3%ADstica%20-%20V2)
-- [Dashboard de RH](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20RH)
-- [Dashboard de Produção](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Produ%C3%A7%C3%A3o)
-- [Dashboard de Vendas](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
 
 ### Dashboard Financeiro
 
