@@ -39,10 +39,11 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Imagem
 - Forma Pagamento
 
-
-<!--  ### Dashboard de Logística - V1 
+### Dashboard de Logística - V1 
 
 ![Gif que exemplifica o funcionando do dashboard de Logística](https://i.imgur.com/ICBtVVR.gif)
+
+o Lab 2, trabalhando com modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e ainda teremos introdução ao DAX.
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMDhhYTk1ZWMtMDBjZi00NzI0LTk2ZmUtNTQ2MWQ1MGZmZmEzIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection1cd0e1a90b7cb2308a4c)
 
@@ -76,6 +77,8 @@ Colunas criadas a partir dos dados:
 - UF
 - Cidade
 - idCliente
+
+<!--
 
 ### Dashboard de Logística - V2
 
