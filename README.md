@@ -6,12 +6,12 @@ Em cada pasta está uma Dashboard diferente, junto com um README.md explicando m
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
-- [Dashboard Financeiro](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Financeiro)
+- [Dashboard Analítico de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/PBI%20teste.pbix)
 - [Dashboard de Logística - V1](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Log%C3%ADstica%20-%20V1)
 
 ### Dashboard Financeiro
 
-![Gif que exemplifica o funcionando do Dashboard Financeiro](https://i.imgur.com/lZW7rfJ.gif)
+![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/Dashboard%201.gif)
 
 No Lab 1, trabalhamos com dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo. O Dashboard deve responder as perguntas abaixo:
 
@@ -23,7 +23,7 @@ No Lab 1, trabalhamos com dados de vendas de uma empresa fictícia que comercial
 
 Demonstre em um mapa. E o Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
 
-Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiYjVlZDRlZDEtYzY4Yi00YTRmLWEwNmItOTI4OWJhNDU4YTVlIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection)
+Acesse o dashboard completo [neste link]()
 
 #### Estrutura da base de dados
 
@@ -38,10 +38,6 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Banco
 - Imagem
 - Forma Pagamento
-
-Nenhuma nova coluna foi criada a partir dos dados.
-
-**Quantidade de dados: 2.725** 
 
 
 ### Dashboard de Logística - V1
@@ -81,8 +77,6 @@ Colunas criadas a partir dos dados:
 - Cidade
 - idCliente
 
-**Quantidade total dos dados: 23.888** 
-
 ### Dashboard de Logística - V2
 
 ![Gif que exemplifica o funcionando do dashboard Logística](https://i.imgur.com/L9VI3fl.gif)
@@ -110,82 +104,7 @@ Colunas criadas a partir dos dados:
 - Cliente
 - Motorista
 
-**Quantidade total dos dados: 4.282** 
 
-### Dashboard de RH
-
-![Gif que exemplifica o funcionando do dashboard de RH](https://i.imgur.com/YUPUzbN.gif)
-
-Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiNzQ2NGQ3ZWMtZDk1ZC00NDAzLWJkNTMtYmMyZGVmODI4ZjlmIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9)
-
-#### Estrutura da base de dados
-
-Arquivo em excel que contém inicialmente as seguintes colunas:
-- ID RH 
-- Nome Completo
-- Estado Civil
-- Gênero
-- Data de Nascimento
-- Endereço
-- Data de contratação
-- Data de demissão
-- Salário
-- Cargo
-- Área
-- Hora Extra
-- Avaliação
-
-Colunas criadas a partir dos dados:
-- Ano
-- Cidade
-
-**Quantidade de dados: 234** 
-
-### Dashboard de Produção
-
-![Gif que exemplifica o funcionando do dashboard de Produção](https://i.imgur.com/ma2ezFI.gif)
-
-Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiNGU3NGViNWUtZjM3MS00ODdhLWExMjMtOWY3NTAxZDJkM2QxIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection)
-
-#### Estrutura da base de dados
-
-Arquivo em excel que contém inicialmente as seguintes colunas:
-- Número Ordem
-- Operador
-- Produto
-- Ocorrência
-- Início
-- Fim
-- Quantidade Produzida
-- Quantidade Rejeitada
-
-Colunas criadas a partir dos dados:
-- Hora Início
-- Hora Fim
-
-**Quantidade de dados: 31617** 
-
-
-### Dashboard de Vendas
-
-![Gif que exemplifica o funcionando do Dashboard de Vendas](https://i.imgur.com/19mRZpY.gif)
-
-Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiODQyZmQwM2MtMGNkYS00ZDY2LTk1M2YtOTlmOThkY2I4YjIxIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9)
-
-#### Estrutura da base de dados
-
-Arquivo em excel que contém inicialmente as seguintes colunas:
-- Categoria
-- Preco Unitário
-- Custo Unitário
-- Marca
-- Quantidade Vendida
-- Nome Cliente
-- Localidade
-
-Colunas criadas a partir dos dados:
-- País
-- Continente
 
 **Quantidade de dados: 203.883** 
 
