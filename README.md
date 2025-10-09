@@ -9,9 +9,9 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 - [Dashboard Analítico de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/PBI%20teste.pbix)
 - [Dashboard de Vendas, Custo, Margem de Lucro e KPI]()
 
-### Dashboard Financeiro
+### Dashboard Analítico de Vendas Globais
 
-![Gif que exemplifica o funcionando do Dashboard Financeiro](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/Dashboard%201.gif)
+![Gif que exemplifica o funcionando do Dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/Dashboard%201.gif)
 
 No Lab 1, trabalhamos com dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo. O Dashboard deve responder as perguntas abaixo:
 
@@ -39,13 +39,13 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 - Imagem
 - Forma Pagamento
 
-### Dashboard de Logística - V1 
+### Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
-![Gif que exemplifica o funcionando do dashboard de Logística](https://i.imgur.com/ICBtVVR.gif)
+![Gif que exemplifica o funcionando do dashboard]()
 
 o Lab 2, trabalhando com modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e ainda teremos introdução ao DAX.
 
-Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMDhhYTk1ZWMtMDBjZi00NzI0LTk2ZmUtNTQ2MWQ1MGZmZmEzIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection1cd0e1a90b7cb2308a4c)
+Acesse o dashboard completo [neste link]()
 
 #### Estrutura da base de dados
 
