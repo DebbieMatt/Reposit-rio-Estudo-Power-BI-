@@ -27,17 +27,6 @@ Acesse o dashboard completo [neste link]()
 
 #### Estrutura da base de dados
 
-Arquivo em excel que contém inicialmente as seguintes colunas:
-- Número Movimentação
-- Nome
-- Tipo Pessoa
-- Município
-- Data Movimentação
-- Valor da Movimentação
-- Tipo
-- Banco
-- Imagem
-- Forma Pagamento
 
 ### Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
@@ -48,35 +37,6 @@ o Lab 2, trabalhando com modelagem de dados, cardinalidade, recursos de limpeza 
 Acesse o dashboard completo [neste link]()
 
 #### Estrutura da base de dados
-
-Arquivo **CadastroVeiculos.xlsx** que contém inicialmente as seguintes colunas:
-- Código Veículo
-- Placa
-- Marca
-- Tipo Veículo
-- Baú
-- Ano
-
-Nenhuma nova coluna foi criada a partir dos dados.
-
-Arquivo **Fretes.xlsx** que contém inicialmente as seguintes colunas:
-- Data Pedido
-- Data Previsão Entrega
-- Data Entrega
-- Cliente
-- idVeículo
-- Documento Fiscal
-- Peso (KG)
-- Peso (Cubado)
-- Valor da Mercadoria
-- Valor do Frete Líquido
-- Devolução
-- Status
-
-Colunas criadas a partir dos dados:
-- UF
-- Cidade
-- idCliente
 
 <!--
 
