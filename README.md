@@ -23,7 +23,7 @@ No Lab 1, trabalhamos com dados de vendas de uma empresa fictícia que comercial
 
 Demonstre em um mapa. E o Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
 
-Acesse o dashboard completo [neste link]()
+Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2002/LAB%2001/PBI%20teste.pbix?csf=1&web=1&e=gpHJXi)
 
 #### Estrutura da base de dados
 
