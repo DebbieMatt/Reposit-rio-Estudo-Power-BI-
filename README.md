@@ -7,7 +7,8 @@ Em cada pasta está uma Dashboard diferente, junto com um README.md explicando m
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
 - [Dashboard Analítico de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/PBI%20teste.pbix)
-- [Dashboard de Vendas, Custo, Margem de Lucro e KPI]()
+- [Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/53ec9ce1b5808a2f60dd22462f41fe77a0902c88/CAP%2003/PBI2.pbix)
+- [Análise de Campanhas de Marketing com Microsoft Power BI]()
 
 ### Dashboard Analítico de Vendas Globais
 
@@ -41,7 +42,7 @@ Abaixo estão as perguntasde negócio do Lab 2.
 
 Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2003/PBI2.pbix?csf=1&web=1&e=NhOw29)
 
-### Análise de Campanhas de Marketing com Power BIMicrosoft Power BI (Mini Projeto)
+### Análise de Campanhas de Marketing com Microsoft Power BI (Mini Projeto)
 
 ![Gif que exemplifica o funcionando do dashboard Logística]()
 
