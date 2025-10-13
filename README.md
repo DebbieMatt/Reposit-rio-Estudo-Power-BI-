@@ -42,7 +42,7 @@ Abaixo estão as perguntasde negócio do Lab 2.
 4. Considere que o lucro é equivalente a:valor venda-custo envio. Qual categoria de produto apresentou maior lucro médio.
 5. Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a margem de lucro como o lucro dividido pelo valor venda.
 
-Acesse o dashboard completo [neste link]()
+Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2003/PBI2.pbix?csf=1&web=1&e=NhOw29)
 
 #### Estrutura da base de dados
 
