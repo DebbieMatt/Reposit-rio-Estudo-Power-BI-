@@ -25,12 +25,9 @@ Demonstre em um mapa. E o Dashboard deve dar ao usuário a possibilidade de filt
 
 Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2002/LAB%2001/PBI%20teste.pbix?csf=1&web=1&e=gpHJXi)
 
-#### Estrutura da base de dados
-
-
 ### Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
-![Gif que exemplifica o funcionando do dashboard]()
+![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/8c74a15c436b3fe0b6bfd8230bb12f4f824d6353/CAP%2003/PBI2.gif)
 
 o Lab 2, trabalhando com modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e ainda teremos introdução ao DAX.
 
@@ -44,36 +41,22 @@ Abaixo estão as perguntasde negócio do Lab 2.
 
 Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2003/PBI2.pbix?csf=1&web=1&e=NhOw29)
 
-#### Estrutura da base de dados
-
-<!--
-
-### Dashboard de Logística - V2
+### Análise de Campanhas de Marketing com Power BIMicrosoft Power BI (Mini Projeto)
 
 ![Gif que exemplifica o funcionando do dashboard Logística](https://i.imgur.com/L9VI3fl.gif)
 
-Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiZWEwODY1YTMtYWVlYi00NDkwLWFhOWItOTZhYmI4ZDk0OTVjIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9)
+Este  Mini-Projeto  traz  uma  breve  introdução à análise de  campanhas de Marketing com o Power BI, com padrão DSA.
 
-#### Estrutura da base de dados
+Serão  4  Dashboards,  mais  de  10  elementos  visuais, customizações,  formatações, correções nos dados e diferentes recursos do Power BI. Os dados foram customizados para este Mini-Projeto e representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa. Foram criados os relatórios, divididos em 4 visões:
 
-Arquivo **DB_Logistica.xlsx** que contém inicialmente as seguintes colunas:
-- N° Pedido
-- Cliente-Motorista
-- Data Emissão Pedido
-- Data Entrega Prevista
-- Destino
-- Item
-- R$ Farurado
-- Saída para Entrega
-- Data Entrega Real
-- Qtd Devolução
-- Mot. Devolução
-- Dias para entrega
-- Status
+- Visão do Cliente;
+- Visão do Comportamento de Compra do Cliente;
+- Visão da Performance das Campanhas de Marketing;
+- Visão dos Padrões de Compra no Ponto de Venda (País).
 
-Colunas criadas a partir dos dados:
-- Cliente
-- Motorista
+Acesse o dashboard completo [neste link]()
+
+<!--
 
  -->
 
