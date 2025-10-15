@@ -48,7 +48,7 @@ Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u
 
 Este  Mini-Projeto  traz  uma  breve  introdução à análise de  campanhas de Marketing com o Power BI, com padrão DSA.
 
-Serão  4  Dashboards,  mais  de  10  elementos  visuais, customizações,  formatações, correções nos dados e diferentes recursos do Power BI. Os dados foram customizados para este Mini-Projeto e representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa. Foram criados os relatórios, divididos em 4 visões:
+São  4  Dashboards,  com mais  de  10  elementos  visuais, customizações,  formatações, correções nos dados e diferentes recursos do Power BI. Os dados foram customizados para este Mini-Projeto e representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa. Foram criados os relatórios, divididos em 4 visões:
 
 - Visão do Cliente;
 - Visão do Comportamento de Compra do Cliente;
@@ -56,6 +56,14 @@ Serão  4  Dashboards,  mais  de  10  elementos  visuais, customizações,  form
 - Visão dos Padrões de Compra no Ponto de Venda (País).
 
 Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ESSVJyfHIU1EvasYFquhvMkB-gdZb6jj6G3K5pWy1ank9g?e=egq2V0)
+
+### Dashboard Comercial - Performance de Vendas (Mini Projeto 2)
+
+![Gif que exemplifica o funcionando do dashboard]()
+
+É composto por uma Narrativa Inteligente, com Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
+
+Acesse o dashboard completo [neste link]()
 
 <!--
 
