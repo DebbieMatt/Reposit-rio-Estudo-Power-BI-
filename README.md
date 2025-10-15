@@ -55,7 +55,7 @@ Serão  4  Dashboards,  mais  de  10  elementos  visuais, customizações,  form
 - Visão da Performance das Campanhas de Marketing;
 - Visão dos Padrões de Compra no Ponto de Venda (País).
 
-Acesse o dashboard completo [neste link]()
+Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ESSVJyfHIU1EvasYFquhvMkB-gdZb6jj6G3K5pWy1ank9g?e=egq2V0)
 
 <!--
 
