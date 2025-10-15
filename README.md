@@ -44,7 +44,7 @@ Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u
 
 ### Análise de Campanhas de Marketing com Microsoft Power BI (Mini Projeto)
 
-![Gif que exemplifica o funcionando do dashboard Logística]()
+![Gif que exemplifica o funcionando do dashboard Logística](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/1102d5c4cf49b2242d105ea980b41745dee32308/Dashboard%20miniprojeto.gif)
 
 Este  Mini-Projeto  traz  uma  breve  introdução à análise de  campanhas de Marketing com o Power BI, com padrão DSA.
 
