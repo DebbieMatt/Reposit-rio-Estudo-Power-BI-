@@ -9,6 +9,8 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 - [Dashboard Analítico de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/PBI%20teste.pbix)
 - [Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/53ec9ce1b5808a2f60dd22462f41fe77a0902c88/CAP%2003/PBI2.pbix)
 - [Análise de Campanhas de Marketing com Microsoft Power BI]()
+- [Dashboard Comercial - Performance de Vendas (Mini Projeto 2)]()
+- [Análise de Dados de RH com Power BIMicrosoft Power BI (Mini Projeto 3)]()
 
 ### Dashboard Analítico de Vendas Globais
 
