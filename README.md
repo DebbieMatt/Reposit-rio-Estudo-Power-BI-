@@ -67,7 +67,7 @@ Acesse o dashboard completo [neste link]()
 
 ### Análise de Dados de RH com Power BIMicrosoft Power BI (Mini Projeto 3)
 
-![Gif que exemplifica o funcionando do dashboard]()
+![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/3af3e5931fb701db0c6ea3ba5fa109673424ac24/proj3%20(2).gif)
 
 Há  uma  breve  introdução  à  análise  de dados de  RH (Recursos Humanos) com o Power BI. O Dashboard criado deve responder às seguintes perguntas de negócio:
 
