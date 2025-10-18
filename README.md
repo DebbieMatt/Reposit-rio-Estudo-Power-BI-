@@ -6,12 +6,12 @@ Em cada pasta está uma Dashboard diferente, junto com um README.md explicando m
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
-- [Dashboard Analítico de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/PBI%20teste.pbix)
-- [Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/53ec9ce1b5808a2f60dd22462f41fe77a0902c88/CAP%2003/PBI2.pbix)
-- [Análise de Campanhas de Marketing com Microsoft Power BI]()
-- [Dashboard Comercial - Performance de Vendas (Mini Projeto 2)]()
-- [Análise de Dados de RH com Power BI (Mini Projeto 3)]()
-- [Desconstruindo o Dashboard e Resolvendo Problemas de Análise na Área de Logística (Mini Projeto 4)]()
+- [Dashboard Analítico de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2002)
+- [Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2003)
+- [Análise de Campanhas de Marketing com Microsoft Power BI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2004)
+- [Dashboard Comercial - Performance de Vendas (Mini Projeto 2)](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2005)
+- [Análise de Dados de RH com Power BI (Mini Projeto 3)](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2006)
+- [Desconstruindo o Dashboard e Resolvendo Problemas de Análise na Área de Logística (Mini Projeto 4)](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007)
 
 ## Dashboard Analítico de Vendas Globais
 
