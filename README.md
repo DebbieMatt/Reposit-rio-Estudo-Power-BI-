@@ -9,8 +9,11 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 - [Dashboard Analítico de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/PBI%20teste.pbix)
 - [Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/53ec9ce1b5808a2f60dd22462f41fe77a0902c88/CAP%2003/PBI2.pbix)
 - [Análise de Campanhas de Marketing com Microsoft Power BI]()
+- [Dashboard Comercial - Performance de Vendas (Mini Projeto 2)]()
+- [Análise de Dados de RH com Power BI (Mini Projeto 3)]()
+- [Desconstruindo o Dashboard e Resolvendo Problemas de Análise na Área de Logística (Mini Projeto 4)]()
 
-### Dashboard Analítico de Vendas Globais
+## Dashboard Analítico de Vendas Globais
 
 ![Gif que exemplifica o funcionando do Dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/Dashboard%201.gif)
 
@@ -26,7 +29,7 @@ Demonstre em um mapa. E o Dashboard deve dar ao usuário a possibilidade de filt
 
 Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2002/LAB%2001/PBI%20teste.pbix?csf=1&web=1&e=gpHJXi)
 
-### Dashboard de Vendas, Custo, Margem de Lucro e KPI
+## Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
 ![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/8c74a15c436b3fe0b6bfd8230bb12f4f824d6353/CAP%2003/PBI2.gif)
 
@@ -42,7 +45,7 @@ Abaixo estão as perguntasde negócio do Lab 2.
 
 Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2003/PBI2.pbix?csf=1&web=1&e=NhOw29)
 
-### Análise de Campanhas de Marketing com Microsoft Power BI (Mini Projeto)
+## Análise de Campanhas de Marketing com Microsoft Power BI (Mini Projeto)
 
 ![Gif que exemplifica o funcionando do dashboard Logística](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/1102d5c4cf49b2242d105ea980b41745dee32308/Dashboard%20miniprojeto.gif)
 
@@ -57,16 +60,47 @@ São  4  Dashboards,  com mais  de  10  elementos  visuais, customizações,  fo
 
 Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ESSVJyfHIU1EvasYFquhvMkB-gdZb6jj6G3K5pWy1ank9g?e=egq2V0)
 
-### Dashboard Comercial - Performance de Vendas (Mini Projeto 2)
+## Dashboard Comercial - Performance de Vendas (Mini Projeto 2)
 
 ![Gif que exemplifica o funcionando do dashboard]()
 
 É composto por uma Narrativa Inteligente, com Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
 
-Acesse o dashboard completo [neste link]()
+Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ERRmGSzprPREs9F4tuwG7SMBm8nqp9PuG75qrFxqX2ApjA?e=v2KKjC)
+
+## Análise de Dados de RH com Power BI (Mini Projeto 3)
+
+![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/3af3e5931fb701db0c6ea3ba5fa109673424ac24/proj3%20(2).gif)
+
+Há  uma  breve  introdução  à  análise  de dados de  RH (Recursos Humanos) com o Power BI. O Dashboard criado deve responder às seguintes perguntas de negócio:
+
+1. Qual o total de funcionários atualmente na empresa?
+2. Qual o tempo médio de experiência dos funcionários (em anos)?
+3. Qual o total e percentual de funcionários do gênero masculino e feminino?
+4. Qual a média salarial mensal?
+5. Qual o total de funcionários por função?
+6. Qual o percentual de funcionários disponíveis para fazer hora extra?
+7. Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categorias: Ruim, Baixo, Médio e Alto?
+
+**Este item não deve estar no Dashboard, mas precisa ser calculado:** Qual o total e o percentual de funcionários que devem receber promoção? Considere a coluna "Anos Desde a última Promoção” com a seguinte regra: Se o funcionário tiver 5 anos ou mais desde  a última  promoção,  deve ter  a  promoção  considerada.  Caso  contrário, a promoção não deve ser considerada agora.
+
+Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/EXFZr0Om3otAsJsSYHOqgPgBt5KoUzQAofJ1K4wv471ACA?email=debora.cerqueira%40tre-mt.jus.br&e=qpBbz3)
+
+## Desconstruindo o Dashboard e Resolvendo Problemas de Análise na Área de Logística (Mini Projeto 4)
+
+Este é  um Mini-Projeto diferente.  Vamos  entregar  a  você  um  Dashboard  repleto  de problemas e erros e vocêterá que desconstruir o Dashboard paraentregar suas análises de forma profissional conforme estamos ensinando a você desde o início do curso.Abaixo a descrição de cenário. Uma empresa de logística solicitou que um profissional fornecesseum Dashboard para compreender como está o processo de entrega de produtos da empresa. O profissional não parecia ter muito conhecimento sobre Power BI e entregou um trabalho com nítidos problemas e erros. 
+
+O Dashboard precisava mostrar os seguintes KPIsde Logística:
+1. Total de Entregas no Prazo Por Canal de Entrega;
+2. Percentual de Entregas Antecipadas Por Equipede Entrega;
+3. Total de Entregas Por Mês;
+4. Total de Entregas de Produtos dos Top5 Vendedores;
+5. Total de Entregas com Atraso Por Cidade;
+6. Percentual de Entregas Por Status de Entrega.
+
+Os diretores da empresa pediram sua ajuda para revisar o Dashboard, identificar e corrigir erros e problemas e apresentaruma nova versão. Todos os erros e problemas detectados devem ser justificados.
 
 <!--
-
  -->
 
 Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua issue 😉
