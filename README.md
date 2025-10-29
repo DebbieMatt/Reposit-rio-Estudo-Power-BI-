@@ -15,7 +15,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 ## Dashboard Analítico de Vendas Globais
 
-![Gif que exemplifica o funcionando do Dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/10e96f75201b52fc7bee3ce52d372cdcc1185b1d/Dashboard%201.gif)
+![Gif que exemplifica o funcionando do Dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2002/Dashboard%201.gif)
 
 No Lab 1, trabalhamos com dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo. O Dashboard deve responder as perguntas abaixo:
 
@@ -31,7 +31,7 @@ Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u
 
 ## Dashboard de Vendas, Custo, Margem de Lucro e KPI
 
-![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/8c74a15c436b3fe0b6bfd8230bb12f4f824d6353/CAP%2003/PBI2.gif)
+![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2003/PBI2.gif)
 
 o Lab 2, trabalhando com modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e ainda teremos introdução ao DAX.
 
@@ -47,7 +47,7 @@ Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u
 
 ## Análise de Campanhas de Marketing com Microsoft Power BI (Mini Projeto)
 
-![Gif que exemplifica o funcionando do dashboard Logística](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/1102d5c4cf49b2242d105ea980b41745dee32308/Dashboard%20miniprojeto.gif)
+![Gif que exemplifica o funcionando do dashboard Logística](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2004/Dashboard%20miniprojeto.gif)
 
 Este  Mini-Projeto  traz  uma  breve  introdução à análise de  campanhas de Marketing com o Power BI, com padrão DSA.
 
@@ -70,7 +70,7 @@ Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u
 
 ## Análise de Dados de RH com Power BI (Mini Projeto 3)
 
-![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/3af3e5931fb701db0c6ea3ba5fa109673424ac24/proj3%20(2).gif)
+![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2006/proj3%20(2).gif)
 
 Há  uma  breve  introdução  à  análise  de dados de  RH (Recursos Humanos) com o Power BI. O Dashboard criado deve responder às seguintes perguntas de negócio:
 
