@@ -62,7 +62,7 @@ Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u
 
 ## Dashboard Comercial - Performance de Vendas (Mini Projeto 2)
 
-![Gif que exemplifica o funcionando do dashboard]()
+![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/2cd139c8ceebd823cc45a12d3e54ba83636d389d/CAP%2005/PROJ%2002_processed_by_imagy.gif)
 
 É composto por uma Narrativa Inteligente, com Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
 
