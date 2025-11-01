@@ -1,106 +1,215 @@
-# Dashboards Power BI 📊
-Repositório de Dashboards feitas em Power BI.
+# 📊 Dashboards Power BI
 
-Bem vindos (as)! Este é um repositório onde você pode encontrar as Dashboards realizadas por mim. 
-Em cada pasta está uma Dashboard diferente, junto com um README.md explicando mais sobre as etapas de ETL e construção dos visuais.
+> Portfólio de dashboards analíticos desenvolvidos com Microsoft Power BI, focados em cenários reais de negócio.
 
-Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
+## 🎯 Sobre o Projeto
 
-- [Dashboard Analítico de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2002)
-- [Dashboard de Vendas, Custo, Margem de Lucro e KPI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2003)
-- [Análise de Campanhas de Marketing com Microsoft Power BI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2004)
-- [Dashboard Comercial - Performance de Vendas (Mini Projeto 2)](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2005)
-- [Análise de Dados de RH com Power BI (Mini Projeto 3)](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2006)
-- [Desconstruindo o Dashboard e Resolvendo Problemas de Análise na Área de Logística (Mini Projeto 4)](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007)
+Este repositório contém uma coleção de dashboards criados para demonstrar habilidades em análise de dados, visualização e business intelligence utilizando Power BI. Cada projeto aborda diferentes áreas de negócio e técnicas de análise.
 
-## Dashboard Analítico de Vendas Globais
+### 🛠️ Técnicas e Recursos Utilizados
 
-![Gif que exemplifica o funcionando do Dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2002/Dashboard%201.gif)
+- Modelagem de dados e relacionamentos
+- Transformação e limpeza de dados (ETL)
+- Linguagem DAX para cálculos e medidas
+- Visualizações interativas e personalizadas
+- KPIs e métricas de performance
+- Análise geográfica com mapas
 
-No Lab 1, trabalhamos com dados de vendas de uma empresa fictícia que comercializa produtos em todos os cantos do mundo. O Dashboard deve responder as perguntas abaixo:
+---
 
-1. Qual o valor total vendido?
-2. Quantas vendas foram realizadas por categoria de produto?
-3. Quantas vendas foram realizadas por país considerando a prioridade de entrega?
-4. Qual foi a média de desconto nas vendas por subcategoria de produto?
-5. Quais países tiveram maior média de valor de venda? 
+## 📁 Projetos
 
-Demonstre em um mapa. E o Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
+### 1️⃣ Dashboard Analítico de Vendas Globais
 
-Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2002/LAB%2001/PBI%20teste.pbix?csf=1&web=1&e=gpHJXi)
+![Dashboard de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2002/Dashboard%201.gif)
 
-## Dashboard de Vendas, Custo, Margem de Lucro e KPI
+**Objetivo:** Análise completa de vendas de uma empresa global com múltiplos canais e categorias de produtos.
 
-![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2003/PBI2.gif)
+**Perguntas de Negócio Respondidas:**
+- Qual o valor total vendido?
+- Quantas vendas foram realizadas por categoria de produto?
+- Quantas vendas foram realizadas por país considerando a prioridade de entrega?
+- Qual foi a média de desconto nas vendas por subcategoria de produto?
+- Quais países tiveram maior média de valor de venda?
 
-o Lab 2, trabalhando com modelagem de dados, cardinalidade, recursos de limpeza de dados do Power BI e ainda teremos introdução ao DAX.
+**Recursos:** Filtros por ano, segmento e país | Visualização em mapa geográfico
 
-Abaixo estão as perguntasde negócio do Lab 2.
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2002) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2002/LAB%2001/PBI%20teste.pbix?csf=1&web=1&e=gpHJXi)
 
-1. Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
-2. Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
-3. A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
-4. Considere que o lucro é equivalente a:valor venda-custo envio. Qual categoria de produto apresentou maior lucro médio.
-5. Qual foi o comportamento da margem de lucro ao longo do tempo? Considere a margem de lucro como o lucro dividido pelo valor venda.
+---
 
-Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2003/PBI2.pbix?csf=1&web=1&e=NhOw29)
+### 2️⃣ Dashboard de Vendas, Custo e Margem de Lucro
 
-## Análise de Campanhas de Marketing com Microsoft Power BI (Mini Projeto)
+![Dashboard de Vendas e KPI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2003/PBI2.gif)
 
-![Gif que exemplifica o funcionando do dashboard Logística](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2004/Dashboard%20miniprojeto.gif)
+**Objetivo:** Análise financeira com foco em rentabilidade, custos operacionais e performance de vendas.
 
-Este  Mini-Projeto  traz  uma  breve  introdução à análise de  campanhas de Marketing com o Power BI, com padrão DSA.
+**Perguntas de Negócio Respondidas:**
+- Qual foi o total de valor venda considerando cada modo de envio dos pedidos?
+- Quais mercados tiveram o maior custo médio de envio dos produtos vendidos?
+- A empresa atingiu a meta de R$ 350 de venda média mensal em Abril/2014?
+- Qual categoria de produto apresentou maior lucro médio?
+- Qual foi o comportamento da margem de lucro ao longo do tempo?
 
-São  4  Dashboards,  com mais  de  10  elementos  visuais, customizações,  formatações, correções nos dados e diferentes recursos do Power BI. Os dados foram customizados para este Mini-Projeto e representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa. Foram criados os relatórios, divididos em 4 visões:
+**Recursos:** Gráfico de cascata | Treemap | KPI com meta | Análise temporal
 
-- Visão do Cliente;
-- Visão do Comportamento de Compra do Cliente;
-- Visão da Performance das Campanhas de Marketing;
-- Visão dos Padrões de Compra no Ponto de Venda (País).
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2003) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2003/PBI2.pbix?csf=1&web=1&e=NhOw29)
 
-Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ESSVJyfHIU1EvasYFquhvMkB-gdZb6jj6G3K5pWy1ank9g?e=egq2V0)
+---
 
-## Dashboard Comercial - Performance de Vendas (Mini Projeto 2)
+### 3️⃣ Análise de Campanhas de Marketing
 
-![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/2cd139c8ceebd823cc45a12d3e54ba83636d389d/CAP%2005/PROJ%2002_processed_by_imagy.gif)
+![Dashboard de Marketing](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2004/Dashboard%20miniprojeto.gif)
 
-É composto por uma Narrativa Inteligente, com Principais Influenciadores, Gráfico de Faixas e criação de menu para índice do Dashboard.
+**Objetivo:** Análise completa de campanhas de marketing e comportamento do cliente.
 
-Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ERRmGSzprPREs9F4tuwG7SMBm8nqp9PuG75qrFxqX2ApjA?e=v2KKjC)
+**Visões do Dashboard:**
+- 👥 **Visão do Cliente:** Perfil demográfico e segmentação
+- 🛒 **Visão do Comportamento de Compra:** Padrões de consumo e preferências
+- 📈 **Visão da Performance das Campanhas:** ROI e efetividade das ações
+- 🌍 **Visão dos Padrões de Compra no PDV:** Análise por localização geográfica
 
-## Análise de Dados de RH com Power BI (Mini Projeto 3)
+**Recursos:** 4 dashboards integrados | +10 elementos visuais | Customizações avançadas
 
-![Gif que exemplifica o funcionando do dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2006/proj3%20(2).gif)
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2004) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ESSVJyfHIU1EvasYFquhvMkB-gdZb6jj6G3K5pWy1ank9g?e=egq2V0)
 
-Há  uma  breve  introdução  à  análise  de dados de  RH (Recursos Humanos) com o Power BI. O Dashboard criado deve responder às seguintes perguntas de negócio:
+---
 
-1. Qual o total de funcionários atualmente na empresa?
-2. Qual o tempo médio de experiência dos funcionários (em anos)?
-3. Qual o total e percentual de funcionários do gênero masculino e feminino?
-4. Qual a média salarial mensal?
-5. Qual o total de funcionários por função?
-6. Qual o percentual de funcionários disponíveis para fazer hora extra?
-7. Qual o nível de envolvimento dos funcionários no trabalho considerando 4 categorias: Ruim, Baixo, Médio e Alto?
+### 4️⃣ Dashboard Comercial - Performance de Vendas
 
-**Este item não deve estar no Dashboard, mas precisa ser calculado:** Qual o total e o percentual de funcionários que devem receber promoção? Considere a coluna "Anos Desde a última Promoção” com a seguinte regra: Se o funcionário tiver 5 anos ou mais desde  a última  promoção,  deve ter  a  promoção  considerada.  Caso  contrário, a promoção não deve ser considerada agora.
+![Dashboard Comercial](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/2cd139c8ceebd823cc45a12d3e54ba83636d389d/CAP%2005/PROJ%2002_processed_by_imagy.gif)
 
-Acesse o dashboard completo [neste link](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/EXFZr0Om3otAsJsSYHOqgPgBt5KoUzQAofJ1K4wv471ACA?email=debora.cerqueira%40tre-mt.jus.br&e=qpBbz3)
+**Objetivo:** Análise avançada de performance comercial com insights automatizados.
 
-## Desconstruindo o Dashboard e Resolvendo Problemas de Análise na Área de Logística (Mini Projeto 4)
+**Recursos Especiais:**
+- 💬 Narrativa Inteligente automatizada
+- 🎯 Análise de Principais Influenciadores
+- 📊 Gráfico de Faixas (Ribbon Chart)
+- 🧭 Menu de navegação interativo
 
-Este é  um Mini-Projeto diferente.  Vamos  entregar  a  você  um  Dashboard  repleto  de problemas e erros e vocêterá que desconstruir o Dashboard paraentregar suas análises de forma profissional conforme estamos ensinando a você desde o início do curso.Abaixo a descrição de cenário. Uma empresa de logística solicitou que um profissional fornecesseum Dashboard para compreender como está o processo de entrega de produtos da empresa. O profissional não parecia ter muito conhecimento sobre Power BI e entregou um trabalho com nítidos problemas e erros. 
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2005) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ERRmGSzprPREs9F4tuwG7SMBm8nqp9PuG75qrFxqX2ApjA?e=v2KKjC)
 
-O Dashboard precisava mostrar os seguintes KPIsde Logística:
-1. Total de Entregas no Prazo Por Canal de Entrega;
-2. Percentual de Entregas Antecipadas Por Equipede Entrega;
-3. Total de Entregas Por Mês;
-4. Total de Entregas de Produtos dos Top5 Vendedores;
-5. Total de Entregas com Atraso Por Cidade;
-6. Percentual de Entregas Por Status de Entrega.
+---
 
-Os diretores da empresa pediram sua ajuda para revisar o Dashboard, identificar e corrigir erros e problemas e apresentaruma nova versão. Todos os erros e problemas detectados devem ser justificados.
+### 5️⃣ Análise de Dados de RH
 
-<!--
- -->
+![Dashboard de RH](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2006/proj3%20(2).gif)
 
-Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua issue 😉
+**Objetivo:** Análise estratégica de recursos humanos para tomada de decisão em gestão de pessoas.
+
+**Indicadores Analisados:**
+- 👥 Total de funcionários ativos
+- ⏱️ Tempo médio de experiência (anos)
+- ⚖️ Distribuição por gênero (total e percentual)
+- 💰 Média salarial mensal
+- 📋 Distribuição por função
+- ⚡ Disponibilidade para hora extra
+- 📊 Níveis de envolvimento (Ruim, Baixo, Médio, Alto)
+
+**Análise Especial:** Identificação de funcionários elegíveis para promoção (5+ anos desde última promoção)
+
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2006) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/EXFZr0Om3otAsJsSYHOqgPgBt5KoUzQAofJ1K4wv471ACA?email=debora.cerqueira%40tre-mt.jus.br&e=qpBbz3)
+
+---
+
+### 6️⃣ Análise de Logística - Projeto de Refatoração
+
+**Objetivo:** Identificar e corrigir problemas em um dashboard de logística mal estruturado.
+
+**Desafio:** Um dashboard foi entregue com diversos erros e problemas. O objetivo é desconstruir, analisar, corrigir e reconstruir uma versão profissional.
+
+**KPIs de Logística:**
+- 📦 Total de Entregas no Prazo por Canal de Entrega
+- ⚡ Percentual de Entregas Antecipadas por Equipe
+- 📅 Total de Entregas por Mês
+- 🏆 Total de Entregas dos Top 5 Vendedores
+- ⏰ Total de Entregas com Atraso por Cidade
+- 📊 Percentual de Entregas por Status
+
+**Habilidades Demonstradas:** Debugging | Refatoração | Boas práticas | Documentação de erros
+
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007)
+
+---
+
+## 📚 Estrutura do Repositório
+
+```
+📦 Dashboards-Power-BI
+├── 📁 CAP 02 - Dashboard Vendas Globais
+│   ├── 📄 README.md
+│   ├── 📊 Dashboard.pbix
+│   └── 📁 Dados
+├── 📁 CAP 03 - Dashboard Vendas e KPI
+├── 📁 CAP 04 - Análise de Marketing
+├── 📁 CAP 05 - Performance Comercial
+├── 📁 CAP 06 - Análise de RH
+└── 📁 CAP 07 - Logística
+```
+
+Cada pasta contém:
+- 📄 **README.md** com explicação detalhada do projeto
+- 📊 **Arquivo .pbix** do Power BI
+- 📁 **Dados** utilizados na análise
+- 🎨 **Documentação** do processo de ETL e construção dos visuais
+
+---
+
+## 🚀 Como Usar
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-.git
+   ```
+
+2. **Abra o Power BI Desktop**
+
+3. **Navegue até a pasta do projeto desejado**
+
+4. **Abra o arquivo .pbix**
+
+5. **Explore os dashboards e análises!**
+
+---
+
+## 💡 Aprendizados e Competências
+
+Este portfólio demonstra competências em:
+
+- ✅ Análise exploratória de dados
+- ✅ Modelagem dimensional (Star Schema)
+- ✅ ETL e transformação de dados com Power Query
+- ✅ Criação de medidas e cálculos com DAX
+- ✅ Design de dashboards interativos e intuitivos
+- ✅ Storytelling com dados
+- ✅ Boas práticas de BI e visualização de dados
+
+---
+
+## 🤝 Contribuições
+
+Encontrou algum bug ou tem sugestões de melhoria? 
+
+- 🐛 **Abra uma [issue](../../issues)**
+- 💡 **Envie um pull request**
+- 📧 **Entre em contato**
+
+Toda contribuição é bem-vinda!
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Sinta-se livre para usar como referência para seus estudos!
+
+---
+
+## 👩‍💻 Autora
+
+**Debora Cerqueira**
+
+Desenvolvido com 💜 e muito ☕ para aprimorar habilidades em Power BI e Business Intelligence.
+
+---
+
+⭐ Se este repositório foi útil para você, considere deixar uma estrela!
