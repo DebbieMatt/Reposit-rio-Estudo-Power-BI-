@@ -114,6 +114,8 @@ Este repositório contém uma coleção de dashboards criados para demonstrar ha
 
 ### 6️⃣ Análise de Logística - Projeto de Refatoração
 
+![Dashboard de logistica](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/e332ccf6cd16d69bf416b369fe87544ca190a297/CAP%2007/proj%204.gif)
+
 **Objetivo:** Identificar e corrigir problemas em um dashboard de logística mal estruturado.
 
 **Desafio:** Um dashboard foi entregue com diversos erros e problemas. O objetivo é desconstruir, analisar, corrigir e reconstruir uma versão profissional.
@@ -128,7 +130,7 @@ Este repositório contém uma coleção de dashboards criados para demonstrar ha
 
 **Habilidades Demonstradas:** Debugging | Refatoração | Boas práticas | Documentação de erros
 
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007)
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/e332ccf6cd16d69bf416b369fe87544ca190a297/CAP%2007/proj%2004.pbix)
 
 ---
 
