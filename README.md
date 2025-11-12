@@ -132,6 +132,18 @@ Este repositório contém uma coleção de dashboards criados para demonstrar ha
 
 [📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/e332ccf6cd16d69bf416b369fe87544ca190a297/CAP%2007/proj%2004.pbix)
 
+### 6️⃣ Mini-Projeto 5 - Dashboard de Análise Financeira
+
+
+![Dashboard de logistica]()
+
+**Objetivo:** 
+**Desafio:** 
+Neste Mini-Projeto vamos explorarmais algumas funcionalidades do Power BI, agora no contexto daárea de finanças.Abaixo a descrição docenário.Sua empresa deseja teruma visãodas receitas e despesas e solicitou que você criasse um Dashboard que permita analisaros seguintes indicadores financeiros:1-Total de Receitas2-Total de Despesas3-Margem de Lucro4-Total deReceitasPor Componente5-Total deDespesasPor Componenteem relação à média de Despesas6-Total  de  Receitase  DespesasPor  Componente  e  Por  Ano,com  a  hierarquia Tipo/Componente.Além disso a empresa precisa identificar os segmentos ondeReceitas e Despesas são maiores e menores a fim de traçar seu plano estratégico
+
+**Habilidades Demonstradas:** 
+
+[📂 Ver projeto completo]() | [🔗 Acessar dashboard]()
 ---
 
 ## 📚 Estrutura do Repositório
