@@ -77,7 +77,7 @@ Este repositório contém uma coleção de dashboards criados para demonstrar ha
 
 ### 4️⃣ Dashboard Comercial - Performance de Vendas
 
-![Dashboard Comercial](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/2cd139c8ceebd823cc45a12d3e54ba83636d389d/CAP%2005/PROJ%2002_processed_by_imagy.gif)
+![Dashboard Comercial](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2005/PROJ%202.gif)
 
 **Objetivo:** Análise avançada de performance comercial com insights automatizados.
 
@@ -87,13 +87,12 @@ Este repositório contém uma coleção de dashboards criados para demonstrar ha
 - 📊 Gráfico de Faixas (Ribbon Chart)
 - 🧭 Menu de navegação interativo
 
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2005) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ERRmGSzprPREs9F4tuwG7SMBm8nqp9PuG75qrFxqX2ApjA?e=v2KKjC)
-
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2005) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2005/PBI-Proj02.pbix)
 ---
 
 ### 5️⃣ Análise de Dados de RH
 
-![Dashboard de RH](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2006/proj3%20(2).gif)
+![Dashboard de RH](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2006/PROJ%203.gif)
 
 **Objetivo:** Análise estratégica de recursos humanos para tomada de decisão em gestão de pessoas.
 
@@ -108,7 +107,7 @@ Este repositório contém uma coleção de dashboards criados para demonstrar ha
 
 **Análise Especial:** Identificação de funcionários elegíveis para promoção (5+ anos desde última promoção)
 
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2006) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/EXFZr0Om3otAsJsSYHOqgPgBt5KoUzQAofJ1K4wv471ACA?email=debora.cerqueira%40tre-mt.jus.br&e=qpBbz3)
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2006) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2006/PBI4.pbix)
 
 ---
 
@@ -132,7 +131,7 @@ Este repositório contém uma coleção de dashboards criados para demonstrar ha
 
 [📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/e332ccf6cd16d69bf416b369fe87544ca190a297/CAP%2007/proj%2004.pbix)
 
-### 6️⃣ Mini-Projeto 5 - Dashboard de Análise Financeira
+### 6️⃣ Dashboard de Análise Financeira
 
 
 ![Dashboard de logistica](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%205.gif)
