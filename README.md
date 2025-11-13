@@ -135,7 +135,7 @@ Este repositório contém uma coleção de dashboards criados para demonstrar ha
 ### 6️⃣ Mini-Projeto 5 - Dashboard de Análise Financeira
 
 
-![Dashboard de logistica]()
+![Dashboard de logistica](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%205.gif)
 
 **Objetivo:** 
 **Desafio:** 
@@ -143,7 +143,7 @@ Neste Mini-Projeto vamos explorarmais algumas funcionalidades do Power BI, agora
 
 **Habilidades Demonstradas:** 
 
-[📂 Ver projeto completo]() | [🔗 Acessar dashboard]()
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%2005.pbix)
 ---
 
 ## 📚 Estrutura do Repositório
