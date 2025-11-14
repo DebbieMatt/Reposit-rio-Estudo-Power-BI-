@@ -131,10 +131,9 @@ Este repositório contém uma coleção de dashboards criados para demonstrar ha
 
 [📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/e332ccf6cd16d69bf416b369fe87544ca190a297/CAP%2007/proj%2004.pbix)
 
-### 6️⃣ Dashboard de Análise Financeira
+### Dashboard de Análise Financeira
 
-
-![Dashboard de logistica](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%205.gif)
+![Dashboard de Analise Financeira](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%205.gif)
 
 **Objetivo:** 
 **Desafio:** 
@@ -144,10 +143,9 @@ Neste Mini-Projeto vamos explorarmais algumas funcionalidades do Power BI, agora
 
 [📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%2005.pbix)
 
-### 6️⃣ Dashboard de Balanço Patrimonial
+### Dashboard de Balanço Patrimonial
 
-
-![Dashboard de logistica](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009/balanco.png)
+![Dashboard de Balanço Patrimonial](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009/balanco.png)
 
 **Objetivo:** 
 **Desafio:** 
@@ -155,6 +153,20 @@ Este Lab demonstra passo a passo como representar um Balanço Patrimonial no Pow
 **Habilidades Demonstradas:** 
 
 [📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009/PROJ%206.pbix)
+
+### Dashboard Analítico do Mercado de Ações com Narrativa Inteligente
+
+![Dashboard de Mercado de Ações]()
+
+**Objetivo:** 
+**Desafio:** 
+
+Neste  Mini-Projeto  vamos usar  dados  reais,  disponíveis  publicamente,  e  construir  um Dashboard Analítico do Mercado de Ações.  Escolhemos dados  de 5 empresas: IBM, Microsoft, Oracle, Tesla e Walmart.Os  dados  foram  extraídosdo  portal  da  Nasdaq  (nas  aulas  a  seguir  ensinaremos  a  você como extrair os dados para seus próprios projetos).https://www.nasdaq.comA cotação de ações é de fato uma série temporal (ou seja, um evento que ocorre ao longo do tempo) e o Power BI oferece uma funcionalidade para manipular esse tipo de dado, chamado de Time Intelligence (que é um recurso de manipulação de datas de forma simplificada). Teremos uma introdução ao tema e usaremos o recurso em nosso Dashboard.Também usaremos o recurso de Narrativa Inteligente para que o Power BI ajude a explicar o comportamento dos dados de forma automática.O dataset usado no Mini-Projeto está em anexo. Lembre-se de descompactar o arquivo zip antes de importar no Power BI.Nosso Dashboard deverá responder a estas perguntas de negócio abaixo:1-Qual o total de volume negociado de açõesao longo do tempo para as 5 empresas que  estão  sendo  analisadas?  Permita  que  essa  análise  seja  feita  para  uma  única empresa ou combinação de empresas.
+Qual  o  valor  médio  de  abertura  (Open),  mais  alto  (High),  mais  baixo  (Low)  e  de fechamento (Close) das ações de todas as empresas para todos os meses do período de  dados  analisado  (1  ano  em  nosso  exemplo)?  Mostre  no  formato  de  tabela  e permita  que  essa  análise  seja  feita  para  uma  única  empresa  ou  combinação  de empresas.3-Qual  a  variação  da  média  do  valor  de fechamento  (close)  das  ações  de  todas  as empresas  ao  longo  do  tempo,  mês  a  mês?  Permita  que  essa  análise  seja  feita  para uma única empresa ou combinação de empresas.4-Use a Narrativa Inteligente para explicar as principais características etendências nos dados.5-O Dashboard deve ser formatado.
+
+**Habilidades Demonstradas:** 
+
+[📂 Ver projeto completo]() | [🔗 Acessar dashboard]() 
 ---
 
 ## 📚 Estrutura do Repositório
