@@ -143,6 +143,18 @@ Neste Mini-Projeto vamos explorarmais algumas funcionalidades do Power BI, agora
 **Habilidades Demonstradas:** 
 
 [📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%2005.pbix)
+
+### 6️⃣ Dashboard de Balanço Patrimonial
+
+
+![Dashboard de logistica](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009/balanco.png)
+
+**Objetivo:** 
+**Desafio:** 
+Este Lab demonstra passo a passo como representar um Balanço Patrimonial no Power BI explorando as funcionalidades do visual de Matriz.Através deste Lab diversas funcionalidades do Power BI serão estudadasem detalhes.
+**Habilidades Demonstradas:** 
+
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009/PROJ%206.pbix)
 ---
 
 ## 📚 Estrutura do Repositório
