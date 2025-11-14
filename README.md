@@ -1,252 +1,278 @@
 # 📊 Dashboards Power BI
 
-> Portfólio de dashboards analíticos desenvolvidos com Microsoft Power BI, focados em cenários reais de negócio.
+> Transformando dados em insights visuais que realmente fazem sentido (e ficam bonitos também!)
 
-## 🎯 Sobre o Projeto
+## 👋 Bem-vindo ao meu playground de dados!
 
-Este repositório contém uma coleção de dashboards criados para demonstrar habilidades em análise de dados, visualização e business intelligence utilizando Power BI. Cada projeto aborda diferentes áreas de negócio e técnicas de análise.
+Sabe aquela sensação de olhar para uma planilha gigante e não entender nada? Pois é, eu também já passei por isso. Foi aí que o Power BI entrou na minha vida! Este repositório é uma coleção dos dashboards que criei para praticar, aprender e (vamos combinar) me divertir com análise de dados.
 
-### 🛠️ Técnicas e Recursos Utilizados
-
-- Modelagem de dados e relacionamentos
-- Transformação e limpeza de dados (ETL)
-- Linguagem DAX para cálculos e medidas
-- Visualizações interativas e personalizadas
-- KPIs e métricas de performance
-- Análise geográfica com mapas
+Cada projeto aqui foi pensado para resolver problemas reais de negócio - do tipo que gestores enfrentam todo dia e precisam de respostas rápidas e visuais.
 
 ---
 
-## 📁 Projetos
+## 🎯 O que você vai encontrar aqui
 
-### 1️⃣ Dashboard Analítico de Vendas Globais
-
-![Dashboard de Vendas Globais](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2002/Dashboard%201.gif)
-
-**Objetivo:** Análise completa de vendas de uma empresa global com múltiplos canais e categorias de produtos.
-
-**Perguntas de Negócio Respondidas:**
-- Qual o valor total vendido?
-- Quantas vendas foram realizadas por categoria de produto?
-- Quantas vendas foram realizadas por país considerando a prioridade de entrega?
-- Qual foi a média de desconto nas vendas por subcategoria de produto?
-- Quais países tiveram maior média de valor de venda?
-
-**Recursos:** Filtros por ano, segmento e país | Visualização em mapa geográfico
-
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2002) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2002/LAB%2001/PBI%20teste.pbix?csf=1&web=1&e=gpHJXi)
+### Técnicas que domei nessa jornada:
+- **Modelagem de dados** - porque dados desorganizados são o caos puro
+- **ETL e Power Query** - transformando bagunça em informação útil
+- **DAX** - a linguagem mágica que faz cálculos complexos parecerem simples
+- **Visualizações interativas** - gráficos que contam histórias
+- **KPIs estratégicos** - números que realmente importam
+- **Mapas geográficos** - porque localização também é informação
 
 ---
 
-### 2️⃣ Dashboard de Vendas, Custo e Margem de Lucro
+## 🗂️ Os Projetos (do básico ao "uau!")
 
-![Dashboard de Vendas e KPI](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2003/PBI2.gif)
+### 1️⃣ Dashboard de Vendas Globais
+![Preview](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2002/Dashboard%201.gif)
 
-**Objetivo:** Análise financeira com foco em rentabilidade, custos operacionais e performance de vendas.
+**O desafio:** Uma empresa global vendendo produtos para o mundo todo. Como saber o que está funcionando?
 
-**Perguntas de Negócio Respondidas:**
-- Qual foi o total de valor venda considerando cada modo de envio dos pedidos?
-- Quais mercados tiveram o maior custo médio de envio dos produtos vendidos?
-- A empresa atingiu a meta de R$ 350 de venda média mensal em Abril/2014?
-- Qual categoria de produto apresentou maior lucro médio?
-- Qual foi o comportamento da margem de lucro ao longo do tempo?
+**O que descobrimos:**
+- 💰 Valor total de vendas em tempo real
+- 📦 Performance por categoria de produto
+- 🌍 Análise de vendas por país e prioridade de entrega
+- 💸 Média de descontos por subcategoria
+- 🏆 Top países em valor médio de venda
 
-**Recursos:** Gráfico de cascata | Treemap | KPI com meta | Análise temporal
+**Destaque:** Mapa interativo mostrando onde o dinheiro está rolando!
 
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2003) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2003/PBI2.pbix?csf=1&web=1&e=NhOw29)
-
----
-
-### 3️⃣ Análise de Campanhas de Marketing
-
-![Dashboard de Marketing](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2004/Dashboard%20miniprojeto.gif)
-
-**Objetivo:** Análise completa de campanhas de marketing e comportamento do cliente.
-
-**Visões do Dashboard:**
-- 👥 **Visão do Cliente:** Perfil demográfico e segmentação
-- 🛒 **Visão do Comportamento de Compra:** Padrões de consumo e preferências
-- 📈 **Visão da Performance das Campanhas:** ROI e efetividade das ações
-- 🌍 **Visão dos Padrões de Compra no PDV:** Análise por localização geográfica
-
-**Recursos:** 4 dashboards integrados | +10 elementos visuais | Customizações avançadas
-
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2004) | [🔗 Acessar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ESSVJyfHIU1EvasYFquhvMkB-gdZb6jj6G3K5pWy1ank9g?e=egq2V0)
+[📂 Ver detalhes](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2002) | [🔗 Explorar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2002/LAB%2001/PBI%20teste.pbix?csf=1&web=1&e=gpHJXi)
 
 ---
 
-### 4️⃣ Dashboard Comercial - Performance de Vendas
+### 2️⃣ Análise Financeira: Vendas, Custos e Lucro
+![Preview](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2003/PBI2.gif)
 
-![Dashboard Comercial](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2005/PROJ%202.gif)
+**O desafio:** Está vendendo muito, mas está lucrando? Aqui a gente descobre!
 
-**Objetivo:** Análise avançada de performance comercial com insights automatizados.
+**Insights revelados:**
+- 🚚 Valor de vendas por tipo de envio (será que o frete grátis compensa?)
+- 💵 Custo médio de envio por mercado
+- 🎯 Batemos a meta de R$ 350 em abril/2014? (spoiler: tem gráfico de KPI!)
+- 📈 Lucro médio por categoria
+- ⏰ Evolução da margem de lucro ao longo do tempo
 
-**Recursos Especiais:**
-- 💬 Narrativa Inteligente automatizada
-- 🎯 Análise de Principais Influenciadores
-- 📊 Gráfico de Faixas (Ribbon Chart)
-- 🧭 Menu de navegação interativo
+**Ferramentas especiais:** Gráfico de cascata (waterfall), treemaps e indicadores de meta.
 
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2005) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2005/PBI-Proj02.pbix)
+[📂 Ver detalhes](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2003) | [🔗 Explorar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/r/personal/037513481864_tre-mt_jus_br/Documents/Documentos/POWER%20BI/CAP%2003/PBI2.pbix?csf=1&web=1&e=NhOw29)
+
 ---
 
-### 5️⃣ Análise de Dados de RH
+### 3️⃣ Campanhas de Marketing: O que funciona de verdade?
+![Preview](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/ce80aa5745475c727b0f9c3a12cf439007bbc197/CAP%2004/Dashboard%20miniprojeto.gif)
 
-![Dashboard de RH](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2006/PROJ%203.gif)
+**O desafio:** Marketing queimando dinheiro ou gerando resultado? Vamos descobrir!
 
-**Objetivo:** Análise estratégica de recursos humanos para tomada de decisão em gestão de pessoas.
+**4 visões estratégicas:**
+- 👥 **Perfil do Cliente:** Quem são, onde moram, quanto ganham
+- 🛒 **Comportamento de Compra:** O que compram e quando compram
+- 📊 **Performance das Campanhas:** ROI, conversões e efetividade
+- 📍 **Padrões Geográficos:** Onde as campanhas decolam (ou despencam)
 
-**Indicadores Analisados:**
-- 👥 Total de funcionários ativos
-- ⏱️ Tempo médio de experiência (anos)
-- ⚖️ Distribuição por gênero (total e percentual)
-- 💰 Média salarial mensal
-- 📋 Distribuição por função
+**Diferencial:** 4 dashboards integrados com +10 visualizações customizadas. É quase um sistema completo!
+
+[📂 Ver detalhes](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2004) | [🔗 Explorar dashboard](https://tremtgovbr-my.sharepoint.com/:u:/g/personal/037513481864_tre-mt_jus_br/ESSVJyfHIU1EvasYFquhvMkB-gdZb6jj6G3K5pWy1ank9g?e=egq2V0)
+
+---
+
+### 4️⃣ Performance Comercial: Vendas Turbinadas com IA
+![Preview](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2005/PROJ%202.gif)
+
+**O desafio:** E se o próprio Power BI te contasse o que está acontecendo nos dados?
+
+**Features que impressionam:**
+- 💬 **Narrativa Inteligente** - O BI literalmente escreve insights automaticamente
+- 🎯 **Principais Influenciadores** - Descobre o que realmente impacta suas vendas
+- 📊 **Ribbon Chart** - Visualização elegante de rankings ao longo do tempo
+- 🧭 **Navegação intuitiva** - Menu interativo que facilita a vida
+
+**O legal:** Sabe aquela pergunta "mas o que isso significa?" - aqui o dashboard responde sozinho!
+
+[📂 Ver detalhes](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2005) | [🔗 Explorar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2005/PBI-Proj02.pbix)
+
+---
+
+### 5️⃣ Gestão de Pessoas: Dashboard de RH Estratégico
+![Preview](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2006/PROJ%203.gif)
+
+**O desafio:** Transformar planilhas de RH em insights para gestão de talentos.
+
+**Indicadores estratégicos:**
+- 👥 Headcount total e evolução
+- ⏱️ Tempo médio de casa dos colaboradores
+- ⚖️ Equilíbrio de gênero (transparência é tudo!)
+- 💰 Massa salarial e média de remuneração
+- 📋 Distribuição por função e área
 - ⚡ Disponibilidade para hora extra
-- 📊 Níveis de envolvimento (Ruim, Baixo, Médio, Alto)
+- 📊 Níveis de engajamento (do "tô fora" ao "apaixonado pela empresa")
 
-**Análise Especial:** Identificação de funcionários elegíveis para promoção (5+ anos desde última promoção)
+**Insight especial:** Identificação automática de funcionários prontos para promoção (5+ anos sem mudança de nível)
 
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2006) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2006/PBI4.pbix)
+[📂 Ver detalhes](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2006) | [🔗 Explorar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/9334151999c6ab9db6743d6561fbf1de17af8d50/CAP%2006/PBI4.pbix)
 
 ---
 
-### 6️⃣ Análise de Logística - Projeto de Refatoração
+### 6️⃣ Logística: Missão de Resgate (Refatoração)
+![Preview](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/e332ccf6cd16d69bf416b369fe87544ca190a297/CAP%2007/proj%204.gif)
 
-![Dashboard de logistica](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/e332ccf6cd16d69bf416b369fe87544ca190a297/CAP%2007/proj%204.gif)
+**O desafio:** Peguei um dashboard quebrado, cheio de erros e problemas. A missão? Salvar o projeto!
 
-**Objetivo:** Identificar e corrigir problemas em um dashboard de logística mal estruturado.
+**O que estava errado:** Tudo. Sério, era um desastre.
 
-**Desafio:** Um dashboard foi entregue com diversos erros e problemas. O objetivo é desconstruir, analisar, corrigir e reconstruir uma versão profissional.
+**O que foi corrigido:**
+- 📦 Entregas no prazo por canal
+- ⚡ Percentual de entregas antecipadas por equipe
+- 📅 Distribuição mensal de entregas
+- 🏆 Top 5 vendedores em entregas
+- ⏰ Atrasos por cidade (e onde melhorar)
+- 📊 Status geral de entregas
 
-**KPIs de Logística:**
-- 📦 Total de Entregas no Prazo por Canal de Entrega
-- ⚡ Percentual de Entregas Antecipadas por Equipe
-- 📅 Total de Entregas por Mês
-- 🏆 Total de Entregas dos Top 5 Vendedores
-- ⏰ Total de Entregas com Atraso por Cidade
-- 📊 Percentual de Entregas por Status
+**O aprendizado:** Às vezes é mais difícil consertar do que fazer do zero. Mas ensina MUITO sobre boas práticas!
 
-**Habilidades Demonstradas:** Debugging | Refatoração | Boas práticas | Documentação de erros
+[📂 Ver detalhes](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007) | [🔗 Explorar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/e332ccf6cd16d69bf416b369fe87544ca190a297/CAP%2007/proj%2004.pbix)
 
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50f2650983186586c195d2b430baa6a3eb537b9a/CAP%2007) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/e332ccf6cd16d69bf416b369fe87544ca190a297/CAP%2007/proj%2004.pbix)
-
-### Dashboard de Análise Financeira
-
-![Dashboard de Analise Financeira](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%205.gif)
-
-**Objetivo:** 
-**Desafio:** 
-Neste Mini-Projeto vamos explorarmais algumas funcionalidades do Power BI, agora no contexto daárea de finanças.Abaixo a descrição docenário.Sua empresa deseja teruma visãodas receitas e despesas e solicitou que você criasse um Dashboard que permita analisaros seguintes indicadores financeiros:1-Total de Receitas2-Total de Despesas3-Margem de Lucro4-Total deReceitasPor Componente5-Total deDespesasPor Componenteem relação à média de Despesas6-Total  de  Receitase  DespesasPor  Componente  e  Por  Ano,com  a  hierarquia Tipo/Componente.Além disso a empresa precisa identificar os segmentos ondeReceitas e Despesas são maiores e menores a fim de traçar seu plano estratégico
-
-**Habilidades Demonstradas:** 
-
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%2005.pbix)
-
-### Dashboard de Balanço Patrimonial
-
-![Dashboard de Balanço Patrimonial](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009/balanco.png)
-
-**Objetivo:** 
-**Desafio:** 
-Este Lab demonstra passo a passo como representar um Balanço Patrimonial no Power BI explorando as funcionalidades do visual de Matriz.Através deste Lab diversas funcionalidades do Power BI serão estudadasem detalhes.
-**Habilidades Demonstradas:** 
-
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009/PROJ%206.pbix)
-
-### Dashboard Analítico do Mercado de Ações com Narrativa Inteligente
-
-![Dashboard de Mercado de Ações](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/50b378f09be3c2dc3531d95aefeb5e108b1bc11b/CAP%2010/mercado%20de%20a%C3%A7%C3%B5es.png)
-
-**Objetivo:** 
-**Desafio:** 
-
-Neste  Mini-Projeto  vamos usar  dados  reais,  disponíveis  publicamente,  e  construir  um Dashboard Analítico do Mercado de Ações.  Escolhemos dados  de 5 empresas: IBM, Microsoft, Oracle, Tesla e Walmart.Os  dados  foram  extraídosdo  portal  da  Nasdaq  (nas  aulas  a  seguir  ensinaremos  a  você como extrair os dados para seus próprios projetos).https://www.nasdaq.comA cotação de ações é de fato uma série temporal (ou seja, um evento que ocorre ao longo do tempo) e o Power BI oferece uma funcionalidade para manipular esse tipo de dado, chamado de Time Intelligence (que é um recurso de manipulação de datas de forma simplificada). Teremos uma introdução ao tema e usaremos o recurso em nosso Dashboard.Também usaremos o recurso de Narrativa Inteligente para que o Power BI ajude a explicar o comportamento dos dados de forma automática.O dataset usado no Mini-Projeto está em anexo. Lembre-se de descompactar o arquivo zip antes de importar no Power BI.Nosso Dashboard deverá responder a estas perguntas de negócio abaixo:1-Qual o total de volume negociado de açõesao longo do tempo para as 5 empresas que  estão  sendo  analisadas?  Permita  que  essa  análise  seja  feita  para  uma  única empresa ou combinação de empresas.
-Qual  o  valor  médio  de  abertura  (Open),  mais  alto  (High),  mais  baixo  (Low)  e  de fechamento (Close) das ações de todas as empresas para todos os meses do período de  dados  analisado  (1  ano  em  nosso  exemplo)?  Mostre  no  formato  de  tabela  e permita  que  essa  análise  seja  feita  para  uma  única  empresa  ou  combinação  de empresas.3-Qual  a  variação  da  média  do  valor  de fechamento  (close)  das  ações  de  todas  as empresas  ao  longo  do  tempo,  mês  a  mês?  Permita  que  essa  análise  seja  feita  para uma única empresa ou combinação de empresas.4-Use a Narrativa Inteligente para explicar as principais características etendências nos dados.5-O Dashboard deve ser formatado.
-
-**Habilidades Demonstradas:** 
-
-[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50b378f09be3c2dc3531d95aefeb5e108b1bc11b/CAP%2010) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/50b378f09be3c2dc3531d95aefeb5e108b1bc11b/CAP%2010/cap%2010.pbix) 
 ---
 
-## 📚 Estrutura do Repositório
+### 7️⃣ Análise Financeira: Receitas vs Despesas
+![Preview](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%205.gif)
+
+**O desafio:** A empresa precisa entender se está ganhando ou perdendo dinheiro. Simples? Nem tanto!
+
+**Indicadores financeiros:**
+- 💵 Total de receitas (é sempre bom ver esse número alto!)
+- 💸 Total de despesas (e esse aqui baixo...)
+- 📊 Margem de lucro (a verdade nua e crua)
+- 🔍 Receitas e despesas por componente
+- 📈 Análise temporal com hierarquia tipo/componente
+- 🎯 Identificação dos segmentos mais e menos lucrativos
+
+**Para que serve:** Planejamento estratégico baseado em onde o dinheiro entra e sai de verdade.
+
+[📂 Ver detalhes](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008) | [🔗 Explorar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/08fc1d88854682391302f959311d1fbf7c859569/CAP%2008/PROJ%2005.pbix)
+
+---
+
+### 8️⃣ Balanço Patrimonial: Contabilidade Visualmente Inteligente
+![Preview](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009/balanco.png)
+
+**O desafio:** Representar um balanço patrimonial de forma que até quem não é contador entenda.
+
+**O que foi feito:** Usei o visual de matriz do Power BI de forma avançada para criar uma representação clara de ativos, passivos e patrimônio líquido.
+
+**Aprendizado técnico:** Este projeto é uma aula sobre como explorar funcionalidades avançadas de um único visual. Menos é mais quando você sabe usar bem!
+
+[📂 Ver detalhes](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009) | [🔗 Explorar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/898e28c6c5adc9707b2dfae7f9ab67fe53c5ca9c/CAP%2009/PROJ%206.pbix)
+
+---
+
+### 9️⃣ Mercado de Ações: Análise de Séries Temporais
+![Preview](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/50b378f09be3c2dc3531d95aefeb5e108b1bc11b/CAP%2010/mercado%20de%20a%C3%A7%C3%B5es.png)
+
+**O desafio:** Analisar dados reais da bolsa de valores (IBM, Microsoft, Oracle, Tesla e Walmart) com Time Intelligence.
+
+**Perguntas respondidas:**
+- 📊 Volume total negociado ao longo do tempo
+- 💹 Valores médios de abertura, alta, baixa e fechamento
+- 📈 Variação mensal dos preços de fechamento
+- 🤖 Narrativa inteligente explicando tendências automaticamente
+
+**Fonte dos dados:** Portal da Nasdaq (dados públicos e reais!)
+
+**O diferencial:** Introdução ao Time Intelligence - a feature do Power BI para trabalhar com séries temporais de forma inteligente.
+
+[📂 Ver detalhes](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50b378f09be3c2dc3531d95aefeb5e108b1bc11b/CAP%2010) | [🔗 Explorar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/50b378f09be3c2dc3531d95aefeb5e108b1bc11b/CAP%2010/cap%2010.pbix)
+
+---
+
+## 🚀 Como usar este repositório
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-.git
+
+# 2. Entre na pasta do projeto que te interessa
+cd CAP\ 02  # (ou qualquer outra pasta)
+
+# 3. Abra o arquivo .pbix no Power BI Desktop
+
+# 4. Explore, aprenda, se inspire!
+```
+
+**Dica:** Cada pasta tem seu próprio README com detalhes específicos do projeto. Vale a pena dar uma olhada!
+
+---
+
+## 📚 Estrutura organizada
 
 ```
 📦 Dashboards-Power-BI
-├── 📁 CAP 02 - Dashboard Vendas Globais
-│   ├── 📄 README.md
-│   ├── 📊 Dashboard.pbix
-│   └── 📁 Dados
-├── 📁 CAP 03 - Dashboard Vendas e KPI
-├── 📁 CAP 04 - Análise de Marketing
+├── 📁 CAP 02 - Vendas Globais
+├── 📁 CAP 03 - Análise Financeira de Vendas
+├── 📁 CAP 04 - Marketing
 ├── 📁 CAP 05 - Performance Comercial
-├── 📁 CAP 06 - Análise de RH
-└── 📁 CAP 07 - Logística
+├── 📁 CAP 06 - Recursos Humanos
+├── 📁 CAP 07 - Logística (Refatoração)
+├── 📁 CAP 08 - Análise Financeira
+├── 📁 CAP 09 - Balanço Patrimonial
+└── 📁 CAP 10 - Mercado de Ações
 ```
 
 Cada pasta contém:
-- 📄 **README.md** com explicação detalhada do projeto
-- 📊 **Arquivo .pbix** do Power BI
-- 📁 **Dados** utilizados na análise
-- 🎨 **Documentação** do processo de ETL e construção dos visuais
+- 📄 Documentação completa do projeto
+- 📊 Arquivo .pbix pronto para abrir
+- 📁 Datasets utilizados
+- 🎨 Detalhes do processo de criação
 
 ---
 
-## 🚀 Como Usar
+## 💪 O que aprendi (e você pode aprender também!)
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-.git
-   ```
-
-2. **Abra o Power BI Desktop**
-
-3. **Navegue até a pasta do projeto desejado**
-
-4. **Abra o arquivo .pbix**
-
-5. **Explore os dashboards e análises!**
+- ✅ **Análise exploratória de dados** - entender antes de visualizar
+- ✅ **Modelagem dimensional** - Star Schema na veia
+- ✅ **ETL com Power Query** - transformar dados sujos em ouro
+- ✅ **Linguagem DAX** - do básico ao avançado
+- ✅ **Design de dashboards** - bonito E funcional
+- ✅ **Storytelling com dados** - números que contam histórias
+- ✅ **Boas práticas de BI** - código limpo, dados confiáveis
+- ✅ **Refatoração e debugging** - porque nem sempre sai perfeito de primeira
 
 ---
 
-## 💡 Aprendizados e Competências
+## 🤝 Quer contribuir?
 
-Este portfólio demonstra competências em:
+Adoraria sua ajuda! Aqui está como:
 
-- ✅ Análise exploratória de dados
-- ✅ Modelagem dimensional (Star Schema)
-- ✅ ETL e transformação de dados com Power Query
-- ✅ Criação de medidas e cálculos com DAX
-- ✅ Design de dashboards interativos e intuitivos
-- ✅ Storytelling com dados
-- ✅ Boas práticas de BI e visualização de dados
+- 🐛 Achou um bug? [Abre uma issue](../../issues)
+- 💡 Tem uma ideia legal? Faz um pull request!
+- 📧 Quer trocar uma ideia? Me manda uma mensagem!
+- ⭐ Curtiu? Deixa uma estrelinha no repo!
 
----
-
-## 🤝 Contribuições
-
-Encontrou algum bug ou tem sugestões de melhoria? 
-
-- 🐛 **Abra uma [issue](../../issues)**
-- 💡 **Envie um pull request**
-- 📧 **Entre em contato**
-
-Toda contribuição é bem-vinda!
+Todo feedback é bem-vindo e me ajuda a evoluir!
 
 ---
 
-## 📄 Licença
+## 📝 Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar como referência para seus estudos!
+MIT License - Fique à vontade para usar, estudar, modificar e compartilhar!
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Sobre mim
 
 **Debora Cerqueira**
 
-Desenvolvido com 💜 e muito ☕ para aprimorar habilidades em Power BI e Business Intelligence.
+Apaixonada por transformar dados em decisões. Cada dashboard aqui representa horas de aprendizado, café e aquela satisfação de ver os gráficos finalmente fazerem sentido! 
+
+Se você está começando no Power BI, espero que esses projetos te inspirem tanto quanto me ensinaram. 
 
 ---
 
-⭐ Se este repositório foi útil para você, considere deixar uma estrela!
+<div align="center">
+
+**Desenvolvido com 💜, muito ☕ e uma pitada de 🎨**
+
+*"Dados não mentem, mas precisam de quem os faça falar."*
+
+</div>
