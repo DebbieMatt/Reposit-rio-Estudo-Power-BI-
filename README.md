@@ -156,7 +156,7 @@ Este Lab demonstra passo a passo como representar um Balanço Patrimonial no Pow
 
 ### Dashboard Analítico do Mercado de Ações com Narrativa Inteligente
 
-![Dashboard de Mercado de Ações]()
+![Dashboard de Mercado de Ações](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/50b378f09be3c2dc3531d95aefeb5e108b1bc11b/CAP%2010/mercado%20de%20a%C3%A7%C3%B5es.png)
 
 **Objetivo:** 
 **Desafio:** 
@@ -166,7 +166,7 @@ Qual  o  valor  médio  de  abertura  (Open),  mais  alto  (High),  mais  baixo 
 
 **Habilidades Demonstradas:** 
 
-[📂 Ver projeto completo]() | [🔗 Acessar dashboard]() 
+[📂 Ver projeto completo](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/tree/50b378f09be3c2dc3531d95aefeb5e108b1bc11b/CAP%2010) | [🔗 Acessar dashboard](https://github.com/DebbieMatt/Reposit-rio-Estudo-Power-BI-/blob/50b378f09be3c2dc3531d95aefeb5e108b1bc11b/CAP%2010/cap%2010.pbix) 
 ---
 
 ## 📚 Estrutura do Repositório
